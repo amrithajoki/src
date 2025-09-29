@@ -1,0 +1,4 @@
+Sept 29, 2025 11:33:45 PM ei.project.rocket.MissionControl start
+INFO: Simulator started.
+Sept 29, 2025 11:33:51 PM ei.project.rocket.MissionControl start
+INFO: Simulator exited by user.
