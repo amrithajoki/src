@@ -1,0 +1,6 @@
+Sept 28, 2025 8:33:26 PM ei.project.pattern.facade.HotelKeeperFacade getMenu
+INFO: Menu delivered for cuisine: Indian
+Sept 28, 2025 8:43:29 PM ei.project.pattern.facade.HotelKeeperFacade getMenu
+SEVERE: ALERT: Allergy item found! Cuisine: Chinese, Item: Noodles
+Sept 28, 2025 8:43:45 PM ei.project.pattern.facade.HotelKeeperFacade getMenu
+INFO: Menu delivered for cuisine: italian
